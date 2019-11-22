@@ -1,0 +1,15 @@
+post_code,city,country_code
+45002,Cambridge,UK
+2134,Plovdiv,BG
+42131,London,UK
+12302,Karlsruhe,DE
+
+SELECT 
+    post_code, city, country_code
+FROM
+    address_data_check
+INTO OUTFILE '/var/lib/mysql-files/' 
+FIELDS ENCLOSED BY '"' 
+TERMINATED BY ',' 
+ESCAPED BY '"' 
+LINES TERMINATED BY '\r\n';

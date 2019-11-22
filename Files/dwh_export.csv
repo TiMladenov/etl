@@ -1,0 +1,5 @@
+Item id,Name,Supplier,ZIP,City,Country,Quantity,Unit cost,Purchased on,Month,Year,Total
+I_1,ARM-Cortex-A53      ,ARM                 ,45002,Cambridge      ,UK,1000,3.0,15-APR-2019         ,4,2019,3000.0
+I_4,SoC_PCB_SMT         ,Olimex              ,2134,Plovdiv        ,BG,300,2.0,20-APR-2019         ,4,2019,600.0
+I_2,1GB LPDDR2-900      ,Samsung             ,42131,London         ,UK,600,1.5,21-APR-2019         ,4,2019,900.0
+I_3,500MB LPDDR2-900    ,Samsung             ,42131,London         ,UK,300,1.0,21-APR-2019         ,4,2019,300.0

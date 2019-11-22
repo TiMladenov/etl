@@ -1,0 +1,5 @@
+item_id, item_name, supplier_name, item_quantity, item_unit_cost, purchase_date, item_total_cost
+"I_1","ARM-Cortex-A53","ARM","1000","3.00","15-APR-2019","3000.00"
+"I_4","SoC_PCB_SMT","Olimex","300","2.00","20-APR-2019","600.00"
+"I_3","500MB LPDDR2-900","Samsung","300","1.00","21-APR-2019","300.00"
+"I_2","1GB LPDDR2-900","Samsung","600","1.50","21-APR-2019","900.00"
